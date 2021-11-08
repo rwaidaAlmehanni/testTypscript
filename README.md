@@ -1,2 +1,2 @@
 # testTypscript
-test typescript new app
+test react with typescript
